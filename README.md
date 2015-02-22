@@ -12,3 +12,7 @@ Generación de informes: establecer informes, establecer filtros sobre los valor
 calculados, recuentos y totales y generar gráficos
 Contenidos del módulo de DESARROLLO DE INTERFACES, PROGRAMACIÓN DE SERVICIOS Y PROCESOS, ACCESO A DATOS y
 PROGRAMACIÓN
+
+
+. . . .  .  . . . . . . . . . .  .  . . . . . . . . . .  .  . . . . . . . . . .  .  . . . . . . . . . .  .  . . . . . . 
+The main objective of the application is recording all the information of the 4 different types of objects that the user can work. This information may be modified, deleted, listed and viewed by the user. In addition, there will be a control system account to access the application shall include at least three types of users: Administrator, editing and consultation, so that they can manage users, view and make changes to data or simply viewing respectively. Reporting: establish reports set filters on the values to include in the report, include calculated, counts and total values and generate graphs.
