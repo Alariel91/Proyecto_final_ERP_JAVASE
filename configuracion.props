@@ -1,0 +1,9 @@
+#-- Ejemplo de fichero de propiedades --
+#Fri Nov 29 00:40:51 CET 2013
+contrasena=
+usuario=root
+driver=com.mysql.jdbc.Driver
+puerto=3306
+basedatos=nikages
+servidor=localhost
+protocolo=jdbc\:mysql\://

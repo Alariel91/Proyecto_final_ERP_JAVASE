@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-catalog="nikages" match-name="almacen"/>
+  <table-filter match-catalog="nikages" match-name="articulo"/>
+  <table-filter match-catalog="nikages" match-name="categoria"/>
+  <table-filter match-catalog="nikages" match-name="cliente"/>
+  <table-filter match-catalog="nikages" match-name="factura"/>
+  <table-filter match-catalog="nikages" match-name="linea_detalle"/>
+  <table-filter match-catalog="nikages" match-name="pedido"/>
+  <table-filter match-catalog="nikages" match-name="proveedor"/>
+  <table-filter match-catalog="nikages" match-name="tipo_impuesto"/>
+</hibernate-reverse-engineering>
